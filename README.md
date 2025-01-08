@@ -1,6 +1,8 @@
 # VFA
 Virtual Financial Advisor
 
+I started this repository because I wanted to create a bundle of tools that I could use to evaluate and predict a stock.
+
 RandomForestClass stock predict: 
 Uses: pandas, sklearn, yfinance, matplotlib
 What does it do: It uses a random forest model to predict when to buy a certain stock. It comes with a percision score of about 58%.
