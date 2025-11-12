@@ -2,7 +2,7 @@
 
 A comprehensive stock market analysis toolkit combining machine learning prediction models with fundamental valuation analysis. This project demonstrates proficiency in financial data analysis, deep learning, and quantitative trading strategies.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ea82eccc-fa95-4c2a-8922-ffbefd55a542" />
+<img width="2423" height="973" alt="image" src="https://github.com/user-attachments/assets/e8231818-2d75-4d77-ba28-895d3c4a5bf2" />
 
 
 ## 🎯 Project Overview
